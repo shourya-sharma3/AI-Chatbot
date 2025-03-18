@@ -1,32 +1,4 @@
-iwontshowyoumyapikey = "AIzaSyBchA889P8OAqT0o0ZSC4-wSBzgYLdwfsg"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+iwontshowyoumyapikey = "Put Your Google Gemini API Key, Steps Explained In README"
 
 import customtkinter as ctk
 import google.generativeai as genai
